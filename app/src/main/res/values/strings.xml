@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">倾心快递</string>
+    <string name="courier_company">快递公司</string>
+    <string name="courier_number">快递单号</string>
+    <string name="search">查询</string>
+    <string name="enter_not_null">输入框不能为空</string>
+</resources>

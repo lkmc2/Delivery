@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="companyName">
+        <item>顺丰</item>
+        <item>申通</item>
+        <item>圆通</item>
+        <item>韵达</item>
+        <item>天天</item>
+        <item>EMS</item>
+        <item>中通</item>
+        <item>汇通</item>
+        <item>京东快递</item>
+        <item>宅急送</item>
+        <item>EMS国际</item>
+    </string-array>
+</resources>
